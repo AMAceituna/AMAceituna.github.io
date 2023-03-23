@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 I exist... I hope.
 
-Here is [my CV](http://AMAceituna.github.io/Media/CVWebsite.pdf)
+Here is [my CV](http://AMAceituna.github.io/tree/main/Media/CVWebsite.pdf)
 
 This is a cool picture of an ant's eye.
 
