@@ -1,0 +1,22 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Howdy.
+
+I exist... I hope.
+
+Here is [my CV](http://AMAceituna.github.io/Media/CV(Website).pdf)
+
+This is a cool picture of an ant's eye.
+
+```{r}
+knitr::include_graphics("../Media/ant.jpg")
+```
+
+
+
