@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 Here's my website.
 
 ### [About me](https://amaceituna.github.io/About_Me/)
+[Projects] ()
 
 ```{r}
 
