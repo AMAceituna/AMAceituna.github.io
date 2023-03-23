@@ -3,7 +3,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 ```
 
 ### Howdy.
@@ -14,9 +14,32 @@ Here is [my CV](https://github.com/AMAceituna/AMAceituna.github.io/blob/main/Med
 
 This is a cool picture of an ant's eye.
 
-```{r}
+```{r, out.height=400, out.width=400}
 knitr::include_graphics("../Media/ant.jpg")
 ```
 
+Loogat that!
+
+Here's the mpg data set:
+```{r}
+library(tidyverse)
+library(kableExtra)
+library(plotly)
+
+mpg %>%
+  kable() %>%
+  kable_classic(lightable_options = "hover") %>% 
+  scroll_box(width = "500px", height = "200px")
+
+p <- mpg %>% 
+  ggplot(aes(x=displ,y=cyl)) +
+  geom_smooth() +
+  geom_point()
+
+ggplotly(p)
+  
+```
+<br><br><br>
+The mean cty mpg is `r round(mean(mpg$cty),2)`
 
 
