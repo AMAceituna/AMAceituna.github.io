@@ -25,7 +25,7 @@ Here is [my CV](https://AMAceituna.github.io/Media/CVwebsite.pdf)
 This is a cool picture of an ant's eye.
 
 ```{r, out.height=400, out.width=400}
-knitr::include_graphics("../Media/ant.jpg")
+knitr::include_graphics("../media/ant.jpg")
 ```
 
 Gorgeous!
