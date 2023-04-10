@@ -6,12 +6,15 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 ```
 
+### My name is Austen Miller Aceituna.
 
+This is my website.
 
-Here's my website.
+I consider it to be a piece of minimalist avant-garde digital design.
 
-### [About me](https://amaceituna.github.io/About_Me/)
-[Projects] ()
+## [About me](https://amaceituna.github.io/About_Me/)
+
+## [Projects](https://amaceituna.github.io/projects/)
 
 ```{r}
 

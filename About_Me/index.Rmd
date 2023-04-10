@@ -8,7 +8,15 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
 ### Howdy.
 
-I exist... I hope.
+I am I Don Quijot- I uh... I mean Austen Miller Aceituna.
+
+-Utah Valley University Biology Student
+
+-Spanish-American
+
+-Evil wizard
+
+Here is [my resume](https://AMAceituna.github.io/Media/resume_website.pdf)
 
 Here is [my CV](https://AMAceituna.github.io/Media/CVwebsite.pdf)
 
@@ -18,7 +26,7 @@ This is a cool picture of an ant's eye.
 knitr::include_graphics("../Media/ant.jpg")
 ```
 
-Loogat that!
+Gorgeous!
 
 Here's the mpg data set:
 ```{r}
