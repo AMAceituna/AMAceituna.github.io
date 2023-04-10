@@ -28,28 +28,4 @@ This is a cool picture of an ant's eye.
 knitr::include_graphics("../media/ant.jpg")
 ```
 
-Gorgeous!
-
-Here's the mpg data set:
-```{r}
-library(tidyverse)
-library(kableExtra)
-library(plotly)
-
-mpg %>%
-  kable() %>%
-  kable_classic(lightable_options = "hover") %>% 
-  scroll_box(width = "500px", height = "200px")
-
-p <- mpg %>% 
-  ggplot(aes(x=displ,y=cyl)) +
-  geom_smooth() +
-  geom_point()
-
-ggplotly(p)
-  
-```
-<br><br><br>
-The mean cty mpg is `r round(mean(mpg$cty),2)`
-
 

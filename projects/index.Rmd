@@ -111,11 +111,23 @@ What we're left with is a single tidy df with 693 observations across 18 variabl
 
 That means a total of 693 posts. Even between three admins an original meme every day is a lot, so right off the bat you know that OC:shares is almost certainly not 1:1.
 
+```{r}
+library(tidyverse)
+library(GGally)
 
+dfyear <- read.csv("./dfyear.csv")
 
+dfyear %>%
+  select(impressions,engagements,reach, shares) %>% 
+  ggpairs() +
+  theme(axis.text.x = element_text(angle = 90))
+```
 
+(Yes I know it's showing the stupid warning messages. I already set those to FALSE. I'm not sure why they're still showing up.)
 
+That's a little hard to read with so many observations. It looks like there are 3 outliers consistently messing with things. Those probably represent our posts that went really viral. It looks like there is also a cluster of 5 or so posts that were also quite successful sitting behind them, but at the front of the pack.
 
+The next step (besides working out the last bits of tidying) is probably to get a baseline of our usual post performance without, say, the top ten posts of the year.
 
 
 
