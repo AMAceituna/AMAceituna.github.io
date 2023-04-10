@@ -6,6 +6,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 ```
+## [Home](https://amaceituna.github.io/)
 
 # BIO 3100 Final Project
 ```{r}
