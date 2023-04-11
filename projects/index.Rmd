@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 ```
 ## [Home](https://amaceituna.github.io/)
 
-# BIO 3100 Final Project
+# BIOL 3100 Final Project
 ```{r}
 knitr::include_graphics("../media/pgb.png")
 ```
@@ -103,13 +103,16 @@ The class of these two columns is still stuck on character and as.Date() is not 
 
 6. New Variable: OC
 
-We mark our original posts with "OC" (or some variation) in their descriptions, so we are going to need to mutate a new column based on the post descriptions. Unique() might help, but practically every description is unique.
+We mark our original posts with "OC" (or some variation) in their descriptions, so we are going to need to make a new column based on the post descriptions. Unique() might help, but practically every description is unique.
+Edit: Done. Add description.
 
 ### 2022 Data Frame
 
 What we're left with is a single tidy df with 693 observations across 18 variables.
 
 That means a total of 693 posts. Even between three admins an original meme every day is a lot, so right off the bat you know that OC:shares is almost certainly not 1:1.
+
+Edit: Managed to get an OC variable. 101/693 posts are oc based on the tidying. Will make more figures exploring this later.
 
 ```{r}
 library(tidyverse)
@@ -128,7 +131,13 @@ dfyear %>%
 That's a little hard to read with so many observations. It looks like there are 3 outliers consistently messing with things. Those probably represent our posts that went really viral. It looks like there is also a cluster of 5 or so posts that were also quite successful sitting behind them, but at the front of the pack.
 
 The next step (besides working out the last bits of tidying) is probably to get a baseline of our usual post performance without, say, the top ten posts of the year.
+Edit: Done besides the pesky date and time stuff.
 
+Here's a quick histogram of the data so far. That top observation is actually an unmarked OC David made. Will need to go back through and check what is not marked correctly.
+
+```{r}
+knitr::include_graphics("../media/imphist1.png")
+```
 
 
 
