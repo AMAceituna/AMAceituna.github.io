@@ -2,7 +2,6 @@
 title: "Projects"
 output: html_document
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 ```
@@ -99,7 +98,9 @@ I have also translated the column names. Some descriptions are still in Spanish,
 
 The date and time of of each post are different variables, both of which will likely be important.
 
-The class of these two columns is still stuck on character and as.Date() is not cooperating. Will edit when I fix the problem.
+They had to be changed to the POSIX format using as.POSIXct()
+
+The class of time is still stuck on character. POSIX forces it to take on a date (today's by default). Might not be a problem. Will come back if it is.
 
 6. New Variable: OC
 
@@ -110,11 +111,12 @@ Edit: Done. Add description.
 
 What we're left with is a single tidy df with 693 observations across 18 variables.
 
-That means a total of 693 posts. Even between three admins an original meme every day is a lot, so right off the bat you know that OC:shares is almost certainly not 1:1.
+That means a total of 693 posts. Even between three admins an original meme every day is a lot, so right off the bat you know that OC:shares is certainly not 1:1. My guess would be around 3:1/4:1.
 
-Edit: Managed to get an OC variable. 101/693 posts are oc based on the tidying. Will make more figures exploring this later.
+Edit: Managed to get an OC variable. 101/693 posts are oc based on the tidying. Will make more figures exploring this later. There is at least one incorrectly labeled OC.
 
 ```{r}
+knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 library(tidyverse)
 library(GGally)
 
@@ -131,9 +133,8 @@ dfyear %>%
 That's a little hard to read with so many observations. It looks like there are 3 outliers consistently messing with things. Those probably represent our posts that went really viral. It looks like there is also a cluster of 5 or so posts that were also quite successful sitting behind them, but at the front of the pack.
 
 The next step (besides working out the last bits of tidying) is probably to get a baseline of our usual post performance without, say, the top ten posts of the year.
-Edit: Done besides the pesky date and time stuff.
 
-Here's a quick histogram of the data so far. That top observation is actually an unmarked OC David made. Will need to go back through and check what is not marked correctly.
+Here's a quick histogram of the data so far. That top observation is actually an unmarked OC David made. Will need to go back through and check what is not marked correctly. Manual editing, but it's still technically part of data collection, I think.
 
 ```{r}
 knitr::include_graphics("../media/imphist1.png")
