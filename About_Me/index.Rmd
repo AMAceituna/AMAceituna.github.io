@@ -12,20 +12,23 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
 I am I Don Quijot- I uh... I mean Austen Miller Aceituna.
 
--Utah Valley University Biology Student
+(Just Austen Miller for Americans.)
+
+-Utah Valley University Bioinformatics Student
 
 -Spanish-American
 
--Evil wizard
+-~~Evil wizard~~
 
-Here is [my resume](https://AMAceituna.github.io/Media/resume_website.pdf)
+[My resume](https://AMAceituna.github.io/Media/resume_website.pdf)
 
-Here is [my CV](https://AMAceituna.github.io/Media/CVwebsite.pdf)
+[My CV](https://AMAceituna.github.io/Media/CVwebsite.pdf)
 
-This is a cool picture of an ant's eye.
+
+This is a picture of me wearing a suit:
 
 ```{r, out.height=400, out.width=400}
-knitr::include_graphics("../media/ant.jpg")
+knitr::include_graphics("../media/me1.jpg")
 ```
 
 
