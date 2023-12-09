@@ -13,7 +13,7 @@ This is my website.
 
 I consider it to be a piece of minimalist avant-garde digital design.
 
-## [About me](https://amaceituna.github.io/about_me/)
+## [About me](https://amaceituna.github.io/About_me/)
 
 ## [Projects](https://amaceituna.github.io/projects/)
 
