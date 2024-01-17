@@ -6,11 +6,24 @@ output:
     toc_float:
       collapsed: false
     theme: cerulean
-    code_folding: hide
 ---
-## [Home](https://amaceituna.github.io/)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+### [Home](https://amaceituna.github.io/)
+<br>
+
+## Spatial Dynamics of Foliar Fungal Community Structure in the Pando Aspen Clone
+#### (Ongoing, but here is a [link](https://www.friendsofpando.org/) to more information on Pando)
+```{r, include=FALSE}
+knitr::include_graphics("../media/pando_fun.jpeg")
+```
+<br>
+<br>
 
 ## [BIOL 3100: Analysis of a Facebook Meme Page](https://amaceituna.github.io/projects/biol_3100)
+#### Spring 2023, published in December 2023 [UVU Honors Journal](https://www.uvu.edu/untold/wings/philosophy.html)
 ```{r}
 knitr::include_graphics("../media/newest.jpg")
 ```

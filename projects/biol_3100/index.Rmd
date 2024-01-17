@@ -23,8 +23,8 @@ dfyear21 <- read.csv("./dfyear21.csv")
 dfyear22 <- read.csv("./dfyear22.csv")
 dfyear23 <- read.csv("./dfyear23.csv")
 ```
-## [Home](https://amaceituna.github.io/)
-## [Projects](https://amaceituna.github.io/projects/)
+### [Home](https://amaceituna.github.io/)
+### [Projects](https://amaceituna.github.io/projects/)
 
 # BIOL 3100 Final Project
 ```{r}

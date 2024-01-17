@@ -1,6 +1,8 @@
 ---
 title: Austen Miller Aceituna
-output: html_document
+output:
+    html_document:
+    theme: cerulean
 ---
 
 ```{r setup, include=FALSE}
@@ -12,12 +14,19 @@ knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 This is my website.
 
 I consider it to be a piece of minimalist avant-garde digital design.
+(i.e. more to be added ;)
+
 
 ## [About Me](https://amaceituna.github.io/about_me/)
 
-## [Projects](https://amaceituna.github.io/projects/)
+## [Projects](https://amaceituna.github.io/projects/)<br>
+<br>
 
-```{r}
-
+```{r,out.width='50%', fig.align='left'}
+knitr::include_graphics("./media/walk.jpg")
 ```
+
+## You can reach me at:  
+### austen.miller51@gmail.com  
+### 10741827@uvu.edu
 
