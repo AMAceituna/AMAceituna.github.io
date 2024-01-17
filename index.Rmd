@@ -9,21 +9,23 @@ output:
 knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 ```
 
-### Hi, this is my website.
+<div style="overflow: auto;">
+  <img src="./media/walk.jpg" style="float: right; margin: 0 0 10px 10px; width: 40%;">
+  
+  <h2>Hi, this is my website!
 
-I consider it to be a piece of minimalist avant-garde digital design
-(i.e. more to be added ;)
+  <p>I consider it to be a piece of minimalist avant-garde digital design  
+  (i.e. more to be added ;)</p><br>
+  
+  <p>You can reach me at:  
+  <strong>austen.miller51@gmail.com</strong>  
+  <strong>10741827@uvu.edu</strong></p></h2>
+
+  <h1><a href="https://amaceituna.github.io/about_me/">About Me</a></h1>
+
+  <h1><a href="https://amaceituna.github.io/projects/">Projects</a></h1><br>
+  
+</div>
 
 
-## [About Me](https://amaceituna.github.io/about_me/)
-
-## [Projects](https://amaceituna.github.io/projects/)<br>
-<br>
-```{r,out.width='50%', fig.align='left'}
-knitr::include_graphics("./media/walk.jpg")
-```
-
-## You can reach me at:  
-### austen.miller51@gmail.com  
-### 10741827@uvu.edu
 
