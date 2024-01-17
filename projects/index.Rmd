@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
 ## Spatial Dynamics of Foliar Fungal Community Structure in the Pando Aspen Clone
 #### (Ongoing, but here is a [link](https://www.friendsofpando.org/) to more information on Pando)
-```{r, include=FALSE}
+```{r, out.width='70%'}
 knitr::include_graphics("../media/pando_fun.jpeg")
 ```
 <br>
@@ -24,7 +24,7 @@ knitr::include_graphics("../media/pando_fun.jpeg")
 
 ## [BIOL 3100: Analysis of a Facebook Meme Page](https://amaceituna.github.io/projects/biol_3100)
 #### Spring 2023, published in December 2023 [UVU Honors Journal](https://www.uvu.edu/untold/wings/philosophy.html)
-```{r}
+```{r, out.width='70%'}
 knitr::include_graphics("../media/newest.jpg")
 ```
 
