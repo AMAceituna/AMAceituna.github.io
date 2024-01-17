@@ -14,16 +14,16 @@ knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
   
   <h2>Hi, this is my website!
 
-  <p>I consider it to be a piece of minimalist avant-garde digital design  
-  (i.e. more to be added ;)</p><br>
-  
-  <p>You can reach me at:  
-  <strong>austen.miller51@gmail.com</strong>  
-  <strong>10741827@uvu.edu</strong></p></h2>
+  <p>I consider it to be a piece of minimalist avant-garde digital design,  
+  (i.e., more to be added ;)</p></h2><br>
 
   <h1><a href="https://amaceituna.github.io/about_me/">About Me</a></h1>
 
   <h1><a href="https://amaceituna.github.io/projects/">Projects</a></h1><br>
+  
+  <h2><p>You can reach me at:  
+  <strong>austen.miller51@gmail.com</strong>  
+  <strong>10741827@uvu.edu</strong></p></h2><br>
   
 </div>
 
