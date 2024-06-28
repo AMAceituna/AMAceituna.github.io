@@ -15,7 +15,7 @@ output:
 
 
 ## Reptiles
-Full list of Reptiles [here](https://amaceituna.github.io/reptiles/):
+Full list of Reptiles [here](https://amaceituna.github.io/reptiles/) :
 
 Puerto Rican Boa (<em>Epicrates inornatus</em>)
 
