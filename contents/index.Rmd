@@ -4,10 +4,10 @@ output:
   html_document:
     theme: flatly
 ---
-<img src="../media/logotrans.png" style="float: left; margin: 0 0 0 0; width: 100%;">
-<br>
-<br>
-<br>
+<a href="https://amaceituna.github.io/contents/" target="_blank">
+  <img src="../media/logotrans.png" style="float: left; margin: 0 0 0 0; width: 100%;">
+</a>
+<br></br>
 
 
 
@@ -15,21 +15,16 @@ output:
 
 
 ## Reptiles
-Full list of Reptiles here:
+Full list of Reptiles [here]():
 
-- Puerto Rican Boa (<em>Epicrates inornatus</em>)
-
-
-<img src="../media/boalink.png" style="float: left; margin: 0 0 0 0; width: 30%;">
+Puerto Rican Boa (<em>Epicrates inornatus</em>)
 
 
-
-
-Source: https://64.media.tumblr.com/tumblr_lqk2ckdzw21qmyv8qo1_1280.jpg
+<img src="../media/boalink.jpg" style="float: left; margin: 0 0 0 0; width: 50%;">
 
 
 ## Amphibians
-List of amphibians blah blah blah
+List of amphibians
 
 - Coquís (add various)
 
@@ -38,7 +33,14 @@ List of birds
 
 ## Mammals
 List of mammals
+- Manatees
 
 ## Invasive Species
 List of invasives
+
+- Iguanas
+
+- Caimans
+
+- Pythons
 
