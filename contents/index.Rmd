@@ -21,33 +21,56 @@ Full list of Reptiles [here](https://amaceituna.github.io/reptiles/) :
 Puerto Rican Boa (<em>Epicrates inornatus</em>)
 
 
-<img src="../media/boalink.jpg" style="float: left; margin: 0 0 0 0; width: 50%;">
+<img src="../media/boalink.jpg" style="float: left; margin: 0 0 0 0; width: 75%;">
+<div style="clear: both;"></div>
+<br>
 
+<br>
 
 ## Amphibians
 List of amphibians [here]
 
 Common Coquí (<em>Eleutherodactylus coqui</em>)
 
-<img src="../media/coqui.jpg" style="float: left; margin: 0 0 0 0; width: 50%;">
+<img src="../media/coqui.jpg" style="float: left; margin: 0 0 0 0; width: 75%;">
+<div style="clear: both;"></div>
+<br>
 
+<br>
 
 ## Birds
 List of birds [here]
 
-(Burds)
+Bananaquit (<em>Coereba flaveola</em>)
+
+<img src="../media/bananquit.jpg" style="float: left; margin: 0 0 0 0; width: 75%;">
+<div style="clear: both;"></div>
+<br>
+
+<br>
+
 
 ## Mammals
 List of mammals [here]
 
-Manatees
+Antillean Manatee (<em>Trichechus manatus</em>)
+
+<img src="../media/manatee.jpg" style="float: left; margin: 0 0 0 0; width: 75%;">
+<div style="clear: both;"></div>
+<br>
+
+<br>
+
 
 ## Invasive Species
 List of invasives [here]
 
-- Iguanas
+- Spectacled Caiman (<em>Caiman crocodilus</em>)
 
-- Caimans
+<img src="../media/spectacledcaiman.JPG" style="float: left; margin: 0 0 0 0; width: 75%;">
+<div style="clear: both;"></div>
+<br>
 
-- Pythons
+<br>
+
 

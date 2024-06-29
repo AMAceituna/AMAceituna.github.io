@@ -48,6 +48,7 @@ Critically endangered!
 
 <div style="clear: both;"></div>
 
+
 ### Fresh Water
 
 - Puerto Rico Slider (<em>Trachemys stejnegeri stejnegeri</em>)
@@ -68,27 +69,20 @@ Critically endangered!
 
 ### Geckos
 
-Monito Gecko (<em> Sphaerodactylus micropithecus </em>)
+- Monito Gecko (<em> Sphaerodactylus micropithecus </em>)
 
 <img src="../media/monitogecko.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
 <div style="clear: both;"></div>
 
-### Dry Forest
-
-
-
-## Iguanas {.tabset}
 
 ### Iguanas
 
-Mona Ground Iguana (<em>Cyclura stejnegeri</em>)
+- Mona Ground Iguana (<em>Cyclura stejnegeri</em>)
 
 Critically Endangered!
 
 <img src="../media/monaiguana.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
 <div style="clear: both;"></div>
-
-### Siguanas
 
 
 
@@ -96,7 +90,7 @@ Critically Endangered!
 
 ### Boas
 
-Puerto Rican Boa (<em>Epicrates inornatus</em>)
+- Puerto Rican Boa (<em>Epicrates inornatus</em>)
 
 
 <img src="../media/boalink.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
@@ -120,4 +114,8 @@ Puerto Rican Boa (<em>Epicrates inornatus</em>)
 
 ### Pythons
 
+- Reticulated Python (<em>Malayopython reticulatus</em>)
+
+<img src="../media/python.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
+<div style="clear: both;"></div>
 
