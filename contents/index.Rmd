@@ -13,6 +13,7 @@ output:
 
 # Contents {.tabset}
 
+(Images from Wikimedia Commons, or Diego)
 
 ## Reptiles
 Full list of Reptiles [here](https://amaceituna.github.io/reptiles/) :
@@ -24,19 +25,25 @@ Puerto Rican Boa (<em>Epicrates inornatus</em>)
 
 
 ## Amphibians
-List of amphibians
+List of amphibians [here]
 
-- Coquís (add various)
+Common Coquí (<em>Eleutherodactylus coqui</em>)
+
+<img src="../media/coqui.jpg" style="float: left; margin: 0 0 0 0; width: 50%;">
+
 
 ## Birds
-List of birds
+List of birds [here]
+
+(Burds)
 
 ## Mammals
-List of mammals
-- Manatees
+List of mammals [here]
+
+Manatees
 
 ## Invasive Species
-List of invasives
+List of invasives [here]
 
 - Iguanas
 

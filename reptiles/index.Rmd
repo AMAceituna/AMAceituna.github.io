@@ -28,11 +28,9 @@ Critically endangered!
 (more very fact-checked, relevant, and cool information)
 
 
-<img src="../media/hawksbillturtle.JPG" style="float: right; margin: 0 0 0 0; width: 50%;">
+<img src="../media/hawksbillturtle.JPG" style="float: right; margin: 0 0 0 0; width: 35%;">
 
-<div style="clear: both;"></div>
-
-<video width="480" height="270" controls style="float: right; margin: 0 0 20px 20px;">
+<video width="480" height="270" controls style=" margin: 0 0 20px 20px;">
   <source src="../media/turtvid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -54,6 +52,8 @@ Critically endangered!
 
 - Puerto Rico Slider (<em>Trachemys stejnegeri stejnegeri</em>)
 
+(more very fact-checked, relevant, and cool information)
+
 <img src="../media/centralantilleanslider.JPG" style="float: right; margin: 0 0 0 0; width: 50%;">
 
 <div style="clear: both;"></div>
@@ -68,13 +68,25 @@ Critically endangered!
 
 ### Geckos
 
-### Forest
+Monito Gecko (<em> Sphaerodactylus micropithecus </em>)
+
+<img src="../media/monitogecko.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
+<div style="clear: both;"></div>
+
+### Dry Forest
 
 
 
 ## Iguanas {.tabset}
 
 ### Iguanas
+
+Mona Ground Iguana (<em>Cyclura stejnegeri</em>)
+
+Critically Endangered!
+
+<img src="../media/monaiguana.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
+<div style="clear: both;"></div>
 
 ### Siguanas
 
@@ -87,7 +99,7 @@ Critically endangered!
 Puerto Rican Boa (<em>Epicrates inornatus</em>)
 
 
-<img src="../media/boalink.jpg" style="float: left; margin: 0 0 0 0; width: 50%;">
+<img src="../media/boalink.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
 <div style="clear: both;"></div>
 
 ### Cobras
@@ -100,6 +112,11 @@ Puerto Rican Boa (<em>Epicrates inornatus</em>)
 ## Invasive Species {.tabset}
 
 ### Caimans
+
+- Spectacled Caiman (<em>Caiman crocodilus</em>)
+
+<img src="../media/spectacledcaiman.JPG" style="float: right; margin: 0 0 0 0; width: 50%;">
+<div style="clear: both;"></div>
 
 ### Pythons
 
