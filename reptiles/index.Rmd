@@ -18,9 +18,49 @@ output:
 
 ## Turtles {.tabset}
 
-### Fresh Water
 
 ### Salt Water
+
+- Hawksbill Sea Turtle (<em>Eretmochelys imbricata</em>)
+
+Critically endangered!
+
+(more very fact-checked, relevant, and cool information)
+
+
+<img src="../media/hawksbillturtle.JPG" style="float: right; margin: 0 0 0 0; width: 50%;">
+
+<div style="clear: both;"></div>
+
+<video width="480" height="270" controls style="float: right; margin: 0 0 20px 20px;">
+  <source src="../media/turtvid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<div style="clear: both;"></div>
+
+- Leatherback Sea Turtle (<em>Dermochelys coriacea</em>)
+
+<div style="clear: both;"></div>
+
+Critically endangered!
+
+
+<img src="../media/leatherbackturtle.jpg" style="float: right; margin: 0 0 0 0; width: 50%;">
+
+<div style="clear: both;"></div>
+
+### Fresh Water
+
+- Puerto Rico Slider (<em>Trachemys stejnegeri stejnegeri</em>)
+
+<img src="../media/centralantilleanslider.JPG" style="float: right; margin: 0 0 0 0; width: 50%;">
+
+<div style="clear: both;"></div>
+
+<br>
+</br>
+
 
 
 
@@ -42,15 +82,22 @@ output:
 
 ## Snakes {.tabset}
 
+### Boas
+
+Puerto Rican Boa (<em>Epicrates inornatus</em>)
+
+
+<img src="../media/boalink.jpg" style="float: left; margin: 0 0 0 0; width: 50%;">
+<div style="clear: both;"></div>
+
 ### Cobras
 
-### Boas
 
 ### Vipers
 
 
 
-## Invasives {.tabset}
+## Invasive Species {.tabset}
 
 ### Caimans
 
