@@ -1,0 +1,25 @@
+name: "Austen Miller Aceituna"
+navbar:
+  title: "Austen Miller"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Literary Activities"
+      href: activities.html
+  right:
+    - text: "GitHub"
+      href: https://github.com/AMAceituna
+    - text: "LinkedIn"
+      href: https://www.linkedin.com/in/austen-miller/
+      
+output:
+  html_document:
+    theme: sandstone
+    toc: false
+    toc_float: false
+    
+output_dir: docs

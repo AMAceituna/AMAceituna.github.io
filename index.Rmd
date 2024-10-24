@@ -1,8 +1,5 @@
 ---
-title: Austen Miller Aceituna
-output:
-    html_document:
-    theme: cerulean
+title:
 ---
 
 ```{r setup, include=FALSE}
@@ -12,14 +9,11 @@ knitr::opts_chunk$set(echo = FALSE, Warning = FALSE, Message = FALSE)
 <div style="overflow: auto;">
   <img src="./media/walk.jpg" style="float: right; margin: 0 0 10px 10px; width: 40%;">
   
-  <h2>Hi, this is my website!
+  <h2>Hello, my name is Austen Miller!
+  
+  <br>
 
-  <p>I consider it to be a piece of minimalist avant-garde digital design,  
-  (i.e., more to be added ;)</p></h2><br>
-
-  <h1><a href="https://amaceituna.github.io/about_me/">About Me</a></h1>
-
-  <h1><a href="https://amaceituna.github.io/projects/">Projects</a></h1><br>
+  <p>I am an undergraduate Bioinformatics student at Utah Valley University and this is my website.</p></h2><br>
   
   <h2><p>You can reach me at:  
   <strong>austen.miller51@gmail.com</strong>  

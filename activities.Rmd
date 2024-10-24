@@ -1,0 +1,70 @@
+---
+title: "Literary Interests"
+output:
+  html_document:
+    self_contained: false
+---
+## Writing
+
+#### I occasionally enjoy writing and have been published a few times:
+
+- Untold Utah Valley University Honors Journal Fall 2024: The Machine State (to be published Fall 2024)
+
+- Untold Utah Valley University Honors Journal Fall 2023: [Facebook Meme Page Data Analysis](https://www.uvu.edu/untold/archive.html)
+
+- Saint Louis University Madrid Campus 2018: Sins of the Mothers (First Prize Recipient, Georgia Johnston Award for Creating Writing in English)
+
+- Saint Louis University Madrid Campus 2018: Colores de la Noche (First Prize Recipient, Ignacio de Loyola Creative Writing in Spanish)
+
+<br>
+
+
+## Memes and Philosophy
+
+#### I love memetic culture and debating philosophy. I am a founder and the science content contributor for the “Philosophical Gym Bro” [Facebook](https://www.facebook.com/GymKingSadBoi/) & [Instagram](https://www.instagram.com/philosophicalgymbro/) meme pages.
+<br>
+
+## Reading
+
+#### I love reading in my free time. I also like keeping track of my books on Goodreads and occasionally write reviews.
+
+#### Here's what I'm currently reading and my favorites:
+
+<!-- Flexbox container for both widgets -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <!-- Currently Reading Widget on the left -->
+  <div style="flex: 1 1 45%; margin-right: 20px;">
+  <!-- Apply border directly to the widget container -->
+    <div style="border: 1px solid gray; border-radius: 10px; padding: 10px; background-color: #FFFFFF;">
+  <div id="gr_custom_widget_1729415152"></div>
+
+  <script src="https://www.goodreads.com/review/custom_widget/28511839.Austen's%20bookshelf:%20currently-reading?cover_position=left&cover_size=small&num_books=5&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1729740106&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
+  </div>
+  </div>
+
+  <!-- Favorite Books Widget on the right -->
+  <div style="flex: 1 1 45%; margin-left: 20px;">
+  <!-- Goodreads Grid Widget for Favorites -->
+    <style type="text/css" media="screen">
+      .gr_grid_container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .gr_grid_book_container {
+        float: left;
+        width: 39px;
+        height: 60px;
+        padding: 0px;
+        overflow: hidden;
+        margin-right: 10px;
+      }
+    </style>
+
+  <div id="gr_grid_widget_1729740317"></div>
+
+  <script src="https://www.goodreads.com/review/grid_widget/28511839.Favorites?cover_size=medium&hide_link=&hide_title=&num_books=50&order=a&shelf=favorites&sort=author&widget_id=1729742371" type="text/javascript" charset="utf-8"></script>
+  </div>
+
+</div>
+
