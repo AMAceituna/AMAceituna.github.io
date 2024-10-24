@@ -1,0 +1,11 @@
+footer {
+    clear: both;               /* Ensure it clears any floated elements */
+    width: 100%;               /* Full page width */
+    background-color: #8ABC40;    /* Change to your preferred color */
+    color: white;               /* Text color */
+    text-align: center;         /* Center text */
+    padding: 10px 0;            /* Padding for the bar */
+    position: relative;         /* Stay in normal document flow */
+    bottom: 0;
+    margin-top: 20px;           /* Add some space above the footer */
+}
