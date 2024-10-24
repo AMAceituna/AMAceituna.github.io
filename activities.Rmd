@@ -1,12 +1,12 @@
 ---
-title: "Literary Interests"
+title:
 output:
   html_document:
     self_contained: false
 ---
-## Writing
+<h2><strong>Writing</h2></strong>
 
-#### I occasionally enjoy writing and have been published a few times:
+<h4>I occasionally enjoy writing and am proud to have a few things that have won awards and/or been published:
 
 - Untold Utah Valley University Honors Journal Fall 2024: The Machine State (to be published Fall 2024)
 
@@ -14,21 +14,21 @@ output:
 
 - Saint Louis University Madrid Campus 2018: Sins of the Mothers (First Prize Recipient, Georgia Johnston Award for Creating Writing in English)
 
-- Saint Louis University Madrid Campus 2018: Colores de la Noche (First Prize Recipient, Ignacio de Loyola Creative Writing in Spanish)
+- Saint Louis University Madrid Campus 2018: Colores de la Noche (First Prize Recipient, Ignacio de Loyola Creative Writing in Spanish)</h4>
 
 <br>
 
 
-## Memes and Philosophy
+<h2><strong>Memes and Philosophy</h2></strong>
 
-#### I love memetic culture and debating philosophy. I am a founder and the science content contributor for the “Philosophical Gym Bro” [Facebook](https://www.facebook.com/GymKingSadBoi/) & [Instagram](https://www.instagram.com/philosophicalgymbro/) meme pages.
+<h4>I love memetic culture and debating philosophy. I am a founder and the science content contributor for the “Philosophical Gym Bro” [Facebook](https://www.facebook.com/GymKingSadBoi/) & [Instagram](https://www.instagram.com/philosophicalgymbro/) meme pages.</h4>
 <br>
 
-## Reading
+<h2><strong>Reading</h2></strong>
 
-#### I love reading in my free time. I also like keeping track of my books on Goodreads and occasionally write reviews.
+<h4>I love books, especially science, history, science-fiction/fantasy, and literature. I also like keeping track of what I read on Goodreads and occasionally write reviews.
 
-#### Here's what I'm currently reading and my favorites:
+Here's what I'm currently reading and my favorites:</h4>
 
 <!-- Flexbox container for both widgets -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -68,3 +68,7 @@ output:
 
 </div>
 
+<footer>
+    <p><strong>austen.miller51@gmail.com<br>
+  10741827@uvu.edu<strong/></p>
+</footer>

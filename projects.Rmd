@@ -1,5 +1,5 @@
 ---
-title: Projects
+title:
 ---
 
 ```{r setup, include=FALSE}
@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 ```{r, out.width='70%'}
 knitr::include_graphics("./media/pando_fun.jpeg")
 ```
+
 <br>
 <br>
 
@@ -21,4 +22,10 @@ knitr::include_graphics("./media/pando_fun.jpeg")
 knitr::include_graphics("./media/newest.jpg")
 ```
 
+<br>
+<br>
 
+<footer>
+    <p><strong>austen.miller51@gmail.com<br>
+  10741827@uvu.edu<strong/></p>
+</footer>

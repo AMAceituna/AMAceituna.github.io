@@ -21,5 +21,6 @@ output:
     theme: sandstone
     toc: false
     toc_float: false
+    css: styles.css
     
 output_dir: docs
