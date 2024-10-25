@@ -6,7 +6,7 @@ output:
 ---
 <h2><strong>Writing</h2></strong>
 
-<h4>I occasionally enjoy writing and am proud to have a few things that have won awards and/or been published:
+<h4>I enjoy writing and am proud to have a few things that have won awards and/or been published:
 
 - Untold Utah Valley University Honors Journal Fall 2024: The Machine State (to be published Fall 2024)
 
@@ -26,9 +26,9 @@ output:
 
 <h2><strong>Reading</h2></strong>
 
-<h4>I love books, especially science, history, science-fiction/fantasy, and literature. I also like keeping track of what I read on Goodreads and occasionally write reviews.
+<h4>I adore books, especially science, history, science-fiction/fantasy, and literature. I also like keeping track of what I read on Goodreads and occasionally write reviews.
 
-Here's what I'm currently reading and my favorites:</h4>
+Here's what I'm currently reading and my overall favorites:</h4>
 
 <!-- Flexbox container for both widgets -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
