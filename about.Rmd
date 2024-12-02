@@ -9,8 +9,8 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
 <div style="overflow: auto;">
   <img src="./media/me3.png" style="float: right; margin: 0 0 10px 10px; width: 40%;">
-  <h1><strong>[My resume](https://AMAceituna.github.io/Media/resume_website.pdf)</strong>  
-  <strong>[My CV](https://AMAceituna.github.io/Media/CVwebsite.pdf)</strong></h1>
+  <h1><strong>[My resume](https://AMAceituna.github.io/media/resume_website.pdf)</strong>  
+  <strong>[My CV](https://AMAceituna.github.io/media/CVwebsite.pdf)</strong></h1>
   
   <h3>My name is Austen Miller Aceituna.
   
